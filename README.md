@@ -1,4 +1,4 @@
-# HR Analytics Dashboard — Power BI
+# HR Analytics Dashboard using Power BI
 
 A portfolio-ready HR analytics dashboard project built for Microsoft Power BI.
 
